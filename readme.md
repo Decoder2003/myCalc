@@ -1,4 +1,5 @@
 # Calculator Application
+![{BC2424F7-96B9-4FE2-82CD-790849DE0842}](https://github.com/user-attachments/assets/6af221b0-5646-4724-b4f5-3a593f206c09)
 
 ## Overview
 
